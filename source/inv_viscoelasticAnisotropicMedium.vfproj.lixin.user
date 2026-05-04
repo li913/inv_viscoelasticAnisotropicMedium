@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application" Version="11.0" ProjectIdGuid="{2FE4A2E7-8F0B-44E8-8E89-71923634FD16}">
-	<Configurations>
-		<Configuration Name="Debug|Win32" WorkingDirectory="dat"/>
-		<Configuration Name="Debug|x64" WorkingDirectory="dat"/>
-		<Configuration Name="Release|Win32" WorkingDirectory="dat"/>
-		<Configuration Name="Release|x64" WorkingDirectory="dat"/></Configurations></VisualStudioUserFile>
